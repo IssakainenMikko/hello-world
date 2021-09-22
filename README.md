@@ -3,4 +3,4 @@ Testing
 
 Tervehdys kaikille!
 
-Olen Mikko, perheenisä Lemusta ja kiinnostunut IT-projekteista ja niiden ketterästä kehityksestä.
+Olen Mikko, perheenisä Lemusta ja kiinnostunut IT-projekteista sekä niiden ketterästä kehityksestä.
